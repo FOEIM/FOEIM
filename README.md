@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @FOEIM
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <p align="center">
 <img src="https://foeim.org/img/logo.png" width="150px" heigh="150px" >
+  <hr>
+  <h4 align="center">FOEIM - Free Online Educational Institution Myanmar</h4>
 </p>
 
 <!---
