@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://foeim.org/img/logo.png" width="150px" heigh="150px" >
   <hr>
-  <h4 align="center"><b><u>FOEIM - Free Online Educational Institution Myanmar</u></b></h4>
+  <h4 align="center"><b>FOEIM - Free Online Educational Institution Myanmar</b></h4>
 </p>
 
 <!---
