@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 <p align="center">
-<img src="https://foeim.org/img/logo.png">
+<img src="https://foeim.org/img/logo.png" width="150px" heigh="150px" >
 </p>
 
 <!---
